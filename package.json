@@ -1,0 +1,23 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "talegram uchun bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "index"
+  },
+  "keywords": [
+    "azimjon"
+  ],
+  "author": "azimjon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "telegraf": "^3.39.0"
+  }
+}
